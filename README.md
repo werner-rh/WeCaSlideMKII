@@ -1,4 +1,4 @@
-DollyControl - Motorized and Arduino controlled Camera Dolly
+Motorized and Arduino controlled Camera Slider
 ===
 
 ## WeCaSlide Version 1.01
@@ -73,6 +73,7 @@ You only need to perform the calibration once.
 - 3D printing files and complete parts list: https://www.printables.com/@werner_rh_510264/models
 
 - more details and futher parts as screws, bearings are listed with example links in partlist.txt
+
 
 
 
