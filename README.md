@@ -1,7 +1,7 @@
 Motorized and Arduino controlled Camera Slider
 ===
 
-## WeCaSlide Version 1.01
+## WeCaSlide MKII Version 1.01
 
 ## Description
 Software for an motorized and Arduino controlled DIY 3D-printed Camera Slider. I called the
@@ -73,6 +73,7 @@ You only need to perform the calibration once.
 - 3D printing files and complete parts list: https://www.printables.com/@werner_rh_510264/models
 
 - more details and futher parts as screws, bearings are listed with example links in partlist.txt
+
 
 
 
