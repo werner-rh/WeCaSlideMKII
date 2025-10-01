@@ -18,7 +18,7 @@ stepper motors. 5V for the Arduino is provided by a 5V linear regulator.
 
 For operating a 1.3" OLED screen, a rotary encoder and two push buttons are built in.
 
-##Features:
+## Features:
 - Pan mode (only slide along the rail with fix camera angle)
 - Rotate (only rotate the camera angle on fix rail position)
 - Pan & Rotate (slide along the rail and rotate the cam at same time)
@@ -29,14 +29,14 @@ For operating a 1.3" OLED screen, a rotary encoder and two push buttons are buil
 All slider actions are started and stoped with the left and right push buttons. 
 
 
-##Calibration
+## Calibration
 After assembling, the calibrate function should be executed. For calibration the slider moves
 the whole rail from end to end and measures the amount of steps for the whole rail distance.
 The measured value is stored into the eeprom of the Arduino and will be reload after power up.
 You only need to perform the calibration once.
 
 
-##How to perform easy object tracking:
+## How to perform easy object tracking:
 - do homing after power up
 - move the slider base to center with the "Move To" functions
 - measure the distance from the camera (middle of the base) to the object to be tracked (in cm)
@@ -73,6 +73,7 @@ You only need to perform the calibration once.
 - 3D printing files and complete parts list: https://www.printables.com/@werner_rh_510264/models
 
 - more details and futher parts as screws, bearings are listed with example links in partlist.txt
+
 
 
 
