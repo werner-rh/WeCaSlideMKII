@@ -70,9 +70,11 @@ You only need to perform the calibration once.
 - 2x push button 
 - 2.5 mm bracket for remote camera trigger 
 - 2x micro switch
-- 3D printing files and complete parts list: https://www.printables.com/@werner_rh_510264/models
+- 3D printing files and complete parts list: https://www.printables.com/model/1431909-wecaslide-mkii-arduino-motorized-camera-slider
+- Video tutorial: https://youtu.be/5n6UvrnZJbU
 
 - more details and futher parts as screws, bearings are listed with example links in partlist.txt
+
 
 
 
